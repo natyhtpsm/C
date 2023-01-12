@@ -1,5 +1,7 @@
-// Creator: Nathália Pimentel de Assis
-// University: University of Brasilia
+/* Name: Nathália Pimentel de Assis
+  University: University of Brasilia
+  Bachelor student in eletronic engineering course */
+
 
 #include <unistd.h>
 #include <stdio.h>
