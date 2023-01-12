@@ -1,1 +1,1 @@
-# C
+- Demographic report: program in C language that allows you to register a city, a state and a person. After registering, you can all the names that where registered by city and by state. Also, it's possible to search by a person's name and to generate one demographic report.
